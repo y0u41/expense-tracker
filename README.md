@@ -1,5 +1,7 @@
 # 简易记账本
 
+![License](https://img.shields.io/badge/license-MIT-green) ![React](https://img.shields.io/badge/React-19-61DAFB) ![Express](https://img.shields.io/badge/Express-5-000000) ![SQLite](https://img.shields.io/badge/SQLite-3-003B57)
+
 一个前后端分离的记账应用：前端 React + TypeScript，后端 Express + SQLite 数据库。
 
 ## 功能特性
